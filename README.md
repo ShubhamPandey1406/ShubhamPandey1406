@@ -8,7 +8,8 @@
 ### SKILLS 
 ![langs](https://img.shields.io/badge/Java-FFD43B?style=for-the-badge&logo=java&logoColor=darkgreen)
 ![l](https://img.shields.io/badge/SpringBoot-092E20?style=for-the-badge&logo=springboot&logoColor=green)
-![lamgs](https://img.shields.io/badge/Maven-F7DF1E?style=for-the-badge&logo=maven&logoColor=green)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+
 ![l](https://img.shields.io/badge/Hibernate-E34F26?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![lamgs](https://img.shields.io/badge/Springcloud-F7DF1E?style=for-the-badge&logo=springcloud&logoColor=green)
 ![l](https://img.shields.io/badge/JPA-E34F26?style=for-the-badge&logo=jpa&logoColor=white)
