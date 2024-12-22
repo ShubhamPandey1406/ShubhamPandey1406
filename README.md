@@ -7,14 +7,21 @@
 
 ### SKILLS 
 ![Java](https://img.shields.io/badge/Java-FFD43B?style=for-the-badge&logo=java&logoColor=darkgreen)
-
 ![l](https://img.shields.io/badge/SpringBoot-092E20?style=for-the-badge&logo=springboot&logoColor=green)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-
 ![l](https://img.shields.io/badge/Hibernate-E34F26?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=springcloud&logoColor=white)
-
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-4C9D99?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+![High Level Design](https://img.shields.io/badge/High_Level_Design-00A9E0?style=for-the-badge&logo=figma&logoColor=white)
+![Low Level Design](https://img.shields.io/badge/Low_Level_Design-0072B1?style=for-the-badge&logo=autocad&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-FF6F00?style=for-the-badge&logo=java&logoColor=white)
+
+
+
 
 
 ![lamgs](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
