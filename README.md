@@ -6,13 +6,16 @@
 - 👨‍💻 All of my projects are available in my github profile
 
 ### SKILLS 
-![langs](https://img.shields.io/badge/Java-FFD43B?style=for-the-badge&logo=java&logoColor=darkgreen)
+![Java](https://img.shields.io/badge/Java-FFD43B?style=for-the-badge&logo=java&logoColor=darkgreen)
+
 ![l](https://img.shields.io/badge/SpringBoot-092E20?style=for-the-badge&logo=springboot&logoColor=green)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
 ![l](https://img.shields.io/badge/Hibernate-E34F26?style=for-the-badge&logo=Hibernate&logoColor=white)
-![lamgs](https://img.shields.io/badge/Springcloud-F7DF1E?style=for-the-badge&logo=springcloud&logoColor=green)
-![l](https://img.shields.io/badge/JPA-E34F26?style=for-the-badge&logo=jpa&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=springcloud&logoColor=white)
+
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
 
 ![lamgs](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![l](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
