@@ -1,14 +1,41 @@
 <h2 align="center">Hi 👋, I'm Shubham Pandey </h2>
-<h3 align="center">A passionate Java Developer</h3>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+<h3 align="center"> Java Developer</h3>
 
 
 - 📫 How to reach me **shubham.pandey146275@gmail.com**
 
-- 👨‍💻 All of my projects are available in my github profile
+```yaml
+name: Shubham Pandey
+located_in: Noida
+current_job: Java Backend Developer
+education:
+  [
+    "Self-Taught Developer and Designer",
+    "Bachelor's in Computer Science & Engineering",
+  ]
+company: Barclays
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Application Design",
+    "Automation",
+    "UI/UX",
+    "DevOps",
+    "WPF",
+  ]
+technical_background:
+  [
+    "Java Developer"
+    "Alteryx Developer"
+    "Java- Intern",
+
+  ]
+  
+currently_learning: ["Docker, Kubernetes"]
+2025 Goals: ["Create 20+ Projects and learn at least 5-10 new Technologies."]
+hobbies: ["Gaming", "Cinema", "Volleyball", "Comedy"]
+```
 
 ### SKILLS 
 ![Java](https://img.shields.io/badge/Java-FFD43B?style=for-the-badge&logo=java&logoColor=darkgreen)
