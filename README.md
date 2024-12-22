@@ -4,10 +4,6 @@
 
 
 
-
-
-- 📫 How to reach me **shubham.pandey146275@gmail.com**
-
 ```yaml
 name: Shubham Pandey
 located_in: Noida
@@ -68,7 +64,13 @@ hobbies: ["Gaming", "Cinema", "Volleyball", "Comedy"]
 
 
 
-### CONNECT WITH ME
+### 📍 **Connect with Me:**
+
+- LinkedIn: [Shubham Pandey](https://www.linkedin.com/in/shubham-pande-53b531165/)
+- Email: [shubham.pandey146275@gmail.com](mailto:shubham.pandey146275@gmail.com)
+
 <p align="left">
-<a href="https://www.linkedin.com/in/shubham-pande-53b531165/" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="shubham-pande-53b531165"  width="30" /></a>
+  <a href="https://www.linkedin.com/in/shubham-pande-53b531165/" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="Shubham Pandey" width="40" /></a>
+  <a href="mailto:shubham.pandey146275@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/gmail.png" alt="shubham.pandey146275@gmail.com" width="40" /></a>
 </p>
+
