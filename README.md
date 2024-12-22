@@ -1,6 +1,11 @@
 <h2 align="center">Hi 👋, I'm Shubham Pandey </h2>
 <h3 align="center"> Java Developer</h3>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
+
 
 - 📫 How to reach me **shubham.pandey146275@gmail.com**
 
