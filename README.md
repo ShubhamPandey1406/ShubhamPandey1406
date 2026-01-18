@@ -33,7 +33,7 @@ technical_background:
   ]
   
 currently_learning: ["Docker, Kubernetes"]
-2025 Goals: ["Create 20+ Projects and learn at least 5-10 new Technologies."]
+2026 Goals: ["Create 20+ Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Volleyball", "Comedy"]
 ```
 
